@@ -28,7 +28,6 @@
 -XX:+UseStringDeduplication
 -XX:+UseFastUnorderedTimeStamps
 -XX:+UseAES
--XX:+UseAESIntrinsics
 -XX:UseAVX=2
 -XX:+UseFMA
 -XX:+UseLoopPredicate
